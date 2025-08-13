@@ -29,7 +29,7 @@ podcast:
     name: Clar
     email: your-podcast-email@example.com
   explicit: "no" # Change to yes if you're a potty mouth
-  image: /img/generic-2000.png # iTunes requires 2,000 pixel art
+  image: /img/podart.webp # iTunes requires 2,000 pixel art
   keywords: "news"
   categories:
     - category: "Sports & Recreation"
