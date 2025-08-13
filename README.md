@@ -49,4 +49,4 @@ explicit: "no" #Gives you a chance to override the explicit rating by episode
 ```
 
 
-[me]:http://mediaelementjs.com
+[me]:https://mediaelementjs.com

@@ -6,7 +6,7 @@ title_short: "Example Pod"
 email: "your-email@example.com"
 description: "Brief description of your podcast"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://bonengeber.ddns.net" # the base hostname & protocol for your site
 itunes_url: "https://itunes.apple.com/us/podcast/xxx"
 
 # itunes_id creates a smart banner on Safari in iOS prompting
