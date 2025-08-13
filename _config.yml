@@ -32,7 +32,7 @@ podcast:
   image: /img/generic-2000.png # iTunes requires 2,000 pixel art
   keywords: "news"
   categories:
-    - category: "Find categories on iTunes"
+    - category: "Sports & Recreation"
 
 # Build settings
 markdown: kramdown
